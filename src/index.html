@@ -44,17 +44,17 @@
                   <div class="away">
                     <img class="logo team <%= r.result == "L" ? "won" : "" %> <%= r.result == "W" ? "faded" : "" %>" src="./assets/<%= json.logos[r.opponent].logo %>" data-game="<%= r.game %>" data-prediction="L"> <div class="team"><%= r.opponent %></div>
                   </div>
-                <%  } else { %>
-                  <div class="home">
-                     <img class="logo team <%= r.result == "W" ? "won" : "" %> <%= r.result == "L" ? "faded" : "" %>" src="./assets/uw.png" data-game="<%= r.game %>" data-prediction="W"> <div class="team"> Huskies</div>
-                  </div>
-                  <div class="location-container">
-                    <div class="location"><%= r.location == "home" ? "VS." : "@" %></div>
-                  </div>
-                  <div class="away">
-                    <img class="logo team <%= r.result == "L" ? "won" : "" %> <%= r.result == "W" ? "faded" : "" %>" src="./assets/<%= json.logos[r.opponent].logo %>" data-game="<%= r.game %>" data-prediction="L"><div class="team"><%= r.opponent %></div>
-                  </div>
-                <%  } %>
+                  <%  } else { %>
+                    <div class="home">
+                       <img class="logo team <%= r.result == "W" ? "won" : "" %> <%= r.result == "L" ? "faded" : "" %>" src="./assets/uw.png" data-game="<%= r.game %>" data-prediction="W"> <div class="team"> Huskies</div>
+                    </div>
+                    <div class="location-container">
+                      <div class="location"><%= r.location == "home" ? "VS." : "@" %></div>
+                    </div>
+                    <div class="away">
+                      <img class="logo team <%= r.result == "L" ? "won" : "" %> <%= r.result == "W" ? "faded" : "" %>" src="./assets/<%= json.logos[r.opponent].logo %>" data-game="<%= r.game %>" data-prediction="L"><div class="team"><%= r.opponent %></div>
+                    </div>
+                  <%  } %>
                     </div>
                 </div>
                 <div class="predictions">
