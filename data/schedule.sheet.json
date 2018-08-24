@@ -3,84 +3,168 @@
     "game": 1,
     "location": "away",
     "opponent": "Auburn",
-    "date": "Sept. 1, 12:30 p.m.",
-    "station": "ABC"
+    "date": "Sept. 1, 12:30 pm",
+    "station": "ABC",
+    "percy": "L",
+    "mike": "L",
+    "larry": "L",
+    "paul": "W",
+    "alex": "L",
+    "stef": "W",
+    "evan": "W"
   },
   {
     "game": 2,
     "location": "home",
     "opponent": "North Dakota",
-    "date": "Sept. 8, 2 p.m.",
-    "station": "Pac-12 Network"
+    "date": "Sept. 8, 2 pm",
+    "station": "Pac-12 Network",
+    "percy": "W",
+    "mike": "W",
+    "larry": "W",
+    "paul": "W",
+    "alex": "W",
+    "stef": "W",
+    "evan": "W"
   },
   {
     "game": 3,
     "location": "away",
     "opponent": "Utah",
-    "date": "Sept. 15, 7 p.m.",
-    "station": "ESPN"
+    "date": "Sept. 15, 7 pm",
+    "station": "ESPN",
+    "percy": "W",
+    "mike": "W",
+    "larry": "W",
+    "paul": "W",
+    "alex": "W",
+    "stef": "W",
+    "evan": "W"
   },
   {
     "game": 4,
     "location": "home",
     "opponent": "Arizona State",
     "date": "Sept. 22, TBD",
-    "station": "TBD"
+    "station": "TBD",
+    "percy": "W",
+    "mike": "W",
+    "larry": "W",
+    "paul": "W",
+    "alex": "W",
+    "stef": "W",
+    "evan": "W"
   },
   {
     "game": 5,
     "location": "home",
     "opponent": "BYU",
     "date": "Sept. 29, TBD",
-    "station": "TBD"
+    "station": "TBD",
+    "percy": "W",
+    "mike": "W",
+    "larry": "W",
+    "paul": "W",
+    "alex": "W",
+    "stef": "W",
+    "evan": "W"
   },
   {
     "game": 6,
     "location": "away",
     "opponent": "UCLA",
     "date": "Oct. 6, TBD",
-    "station": "TBD"
+    "station": "TBD",
+    "percy": "W",
+    "mike": "W",
+    "larry": "W",
+    "paul": "W",
+    "alex": "W",
+    "stef": "W",
+    "evan": "L"
   },
   {
     "game": 7,
     "location": "away",
     "opponent": "Oregon",
     "date": "Oct. 13, TBD",
-    "station": "TBD"
+    "station": "TBD",
+    "percy": "W",
+    "mike": "W",
+    "larry": "W",
+    "paul": "L",
+    "alex": "W",
+    "stef": "W",
+    "evan": "W"
   },
   {
     "game": 8,
     "location": "home",
     "opponent": "Colorado",
     "date": "Oct. 20, TBD",
-    "station": "TBD"
+    "station": "TBD",
+    "percy": "W",
+    "mike": "W",
+    "larry": "W",
+    "paul": "W",
+    "alex": "W",
+    "stef": "W",
+    "evan": "W"
   },
   {
     "game": 9,
     "location": "away",
     "opponent": "California",
     "date": "Oct. 27, TBD",
-    "station": "TBD"
+    "station": "TBD",
+    "percy": "W",
+    "mike": "W",
+    "larry": "W",
+    "paul": "W",
+    "alex": "W",
+    "stef": "W",
+    "evan": "W"
   },
   {
     "game": 10,
     "location": "home",
     "opponent": "Stanford",
     "date": "Nov. 3, TBD",
-    "station": "TBD"
+    "station": "TBD",
+    "percy": "W",
+    "mike": "W",
+    "larry": "W",
+    "paul": "W",
+    "alex": "W",
+    "stef": "L",
+    "evan": "W"
   },
   {
     "game": 11,
     "location": "home",
     "opponent": "Oregon State",
     "date": "Nov. 17, TBD",
-    "station": "TBD"
+    "station": "TBD",
+    "percy": "W",
+    "mike": "W",
+    "larry": "W",
+    "paul": "W",
+    "alex": "W",
+    "stef": "W",
+    "evan": "W"
   },
   {
     "game": 12,
     "location": "away",
     "opponent": "Washington State",
-    "date": "Nov. 23, 5:30 p.m.",
-    "station": "FOX"
+    "date": "Nov. 23, 5:30 pm",
+    "station": "FOX",
+    "percy": "W",
+    "mike": "W",
+    "larry": "W",
+    "paul": "W",
+    "alex": "W",
+    "stef": "W",
+    "evan": "W"
   }
 ]

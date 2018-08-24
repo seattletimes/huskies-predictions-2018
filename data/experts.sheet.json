@@ -5,6 +5,9 @@
   },
   "percy": {
     "name": "Percy Allen",
+    "comment": "Kudos to Chris Petersen for agreeing to play No. 9 Auburn at a “neutral” site in Atlanta, but the last two times the Huskies faced top-10 ranked SEC teams they lost 24-7 to No. 1 Alabama in 2016 and were defeated 41-3 at No. 3 LSU in 2012. A trip to Utah and back-to-back road games at UCLA and Oregon are potentially troublesome, but if the Huskies clear those hurdles they could go undefeated in Pac-12 play. UW is fortunate it doesn't play Pac-12 defending champion USC and Arizona in the regular season.",
+    "wins": 11,
+    "loss": 1,
     "title": "Huskies beat writer"
   },
   "bob": {
@@ -13,10 +16,16 @@
   },
   "mike": {
     "name": "Mike Vorel",
+    "comment": "This will come as little surprise to UW fans, but the Huskies should be the class of the Pac-12 in 2018. Chris Petersen brings back perhaps the most-talented defensive secondary in the country, as well as experienced, reliable offensive skill players in quarterback Jake Browning and tailback Myles Gaskin. Left tackle Trey Adams is a potential 2019 first-round draft pick as well. The Huskies will have to exorcise some demons in Atlanta in their opener against highly touted Auburn, but should cruise throughout the remainder of the regular season.",
+    "wins": 11,
+    "loss": 1,
     "title": "Seahawks beat writer"
   },
   "larry": {
     "name": "Larry Stone",
+    "comment": "The Huskies are loaded for bear, including the Cal Bears. With returning stars all over the field, they are legitimate playoff contenders, and the opener against Auburn in Atlanta will provide an instant test of mammoth proportions. I see a close-fought battle in which the de facto home-field advantage of the Tigers (who are just a two-hour drive away) will make the difference. But Chris Petersen will have his Huskies bouncing back to run the table, and give the selection committee a very tough choice.",
+    "wins": 11,
+    "loss": 1,
     "title": "Columnist"
   },
   "matt": {
@@ -29,18 +38,29 @@
   },
   "paul": {
     "name": "Paul Barrett",
+    "comment": "UW appears to have it all – talent, coaching and a nonconference schedule that is difficult enough to garner buy-in from the College Football Playoff committee. The Huskies should edge Auburn in a huge season opener, but winning at Utah, at Oregon and against Stanford will be a challenge. I’ll pick the Oregon game as the lone loss, and I’ll project UW to reach the playoff for the second time in the past three years.",
+    "wins": 11,
+    "loss": 1,
     "title": "Sports Editor"
   },
   "alex": {
     "name": "Alex Iniguez",
+    "comment": "Offensive stars Jake Browning and Myles Gaskin get all the attention, with good reason, but the UW defense will determine where this team goes. A stellar secondary — should it stay healthy — will lead the Huskies to a perfect conference record and a Pac-12 title. After that, it’s up to the College Football Playoff selection committee and other top teams to allow Chris Petersen to take the final step: winning a national championship.",
+    "wins": 11,
+    "loss": 1,
     "title": "Assistant Sports Editor"
   },
   "stef": {
     "name": "Stefanie Loh",
+    "comment": "With Jake Browning back for a final hurrah and what will be one of the nation’s best defensive secondaries to back him up, this is the year it all comes together for the Huskies. They’ll capture the nation’s attention with a statement win over Auburn on the road, then roll through the Pac-12 slate … until they get to Stanford, where Bryce Love just might power his way through that defense again to give the Cardinal its second-straight win over UW. Still, that Auburn win will keep them in the playoff conversation.",
+    "wins": 11,
+    "loss": 1,
     "title": "Assistant Sports Editor"
   },
   "evan": {
     "name": "Evan Webeck",
+    "wins": 11,
+    "loss": 1,
     "title": "Digital Sports Producer"
   }
 }
