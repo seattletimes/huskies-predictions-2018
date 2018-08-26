@@ -1,6 +1,9 @@
 {
   "adam": {
     "name": "Adam Jude",
+    "comment": "The Huskies, Pac-12 champions in 2016, are the overwhelming favorites to win the conference crown again — and it's easy to see why. QB Jake Browning, RB Myles Gaskin, LT Trey Adams and RT Kaleb McGary are all four-year starters, and nine starters returning from the Pac-12's top-ranked defense, including all five defensive backs. The Huskies look like a legitimate national-title contender. For themselves, and for the Pac-12 at large, they need to beat No. 9 Auburn in the opener to prove to the East Coast, to prove to everyone, that that is indeed the case.",
+    "wins": 11,
+    "loss": 1,
     "title": "Huskies beat writer"
   },
   "percy": {
@@ -12,6 +15,9 @@
   },
   "bob": {
     "name": "Bob Condotta",
+    "comment": "The opener may be too tall of an order for a Washington team that will essentially be playing on the road. But from there the schedule seems to offer only one really tricky stretch: the back-to-back games at UCLA and Oregon. The Huskies, though, look like the class of the Pac-12 for now and maybe well into the future.",
+    "wins": 11,
+    "loss": 1,
     "title": "Seahawks beat writer"
   },
   "mike": {
@@ -30,11 +36,10 @@
   },
   "matt": {
     "name": "Matt Calkins",
+    "comment": "The Huskies' hype is well-earned, and will carry over into the opener in Atlanta, where Washington will beat Auburn despite the game taking place 100 miles from the Tigers' campus. But the Huskies' rival in Eugene is on the rise and has the potential to steal a win at Autzen Stadium. Whether this is enough to bounce UW from the playoffs will depend on the rest of the country. ",
+    "wins": 11,
+    "loss": 1,
     "title": "Columnist"
-  },
-  "jon": {
-    "name": "Jon Wilner",
-    "title": "Pac-12 Hotline"
   },
   "paul": {
     "name": "Paul Barrett",
@@ -59,6 +64,7 @@
   },
   "evan": {
     "name": "Evan Webeck",
+    "comment": "Yeah, it's No. 9 Auburn. Yeah, it's in the heart of SEC country. But, no, I'm not going to be the guy to count out Chris Petersen with an entire slate of fall practices to prepare. His best team yet will garner all the deserved hype and reclaim the conference crown. Still, it's hard not to imagine a single slip-up along the way. What really matters: Will the Huskies do enough to convince the playoff committee to include a one-loss Pac-12 champion?",
     "wins": 11,
     "loss": 1,
     "title": "Digital Sports Producer"
